@@ -1,6 +1,3 @@
-## Network Ping-monitor for MacOS [file](https://github.com/skaboy71/MISC_SCRIPTS/blob/main/python/ping_monitor.py)
-A comprehensive network monitoring tool specifically designed for macOS that provides real-time ping monitoring with automatic network adapter detection and flexible configuration options.
-
 ## Features
 
 ### 🌐 **Automatic Network Detection**
