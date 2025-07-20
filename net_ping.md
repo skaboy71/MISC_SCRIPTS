@@ -1,6 +1,6 @@
 ## Features
 
-### 🌐 **Automatic Network Detection**  [FILE](https://github.com/skaboy71/MISC_SCRIPTS/blob/main/python/ping_monitor.py)
+### 🌐 **Automatic Network Detection**
 - **Native macOS Integration**: Uses `ipconfig getiflist` and `ipconfig getsummary` commands for reliable network adapter detection
 - **Complete Network Info**: Displays interface names, local IPs, gateways, subnet masks, and connection status
 - **Smart Fallback**: Automatically falls back to `ifconfig`/`netstat` parsing if needed
@@ -24,7 +24,7 @@
 - **Default Fallbacks**: Sensible defaults (Google DNS, Cloudflare, etc.) when no hosts specified
 - **Profile Name Support**: Clear labeling for easy identification
 
-## Installation
+## Installation -- [FILE](https://github.com/skaboy71/MISC_SCRIPTS/blob/main/python/ping_monitor.py)
 
 ### Requirements
 - **macOS Sonoma or newer** (optimized for modern macOS versions)
