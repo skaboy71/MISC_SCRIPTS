@@ -55,10 +55,6 @@ pip install tabulate
 
 ### Quick Start
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/network-ping-monitor.git
-cd network-ping-monitor
-
 # Install dependencies
 pip install tabulate
 
